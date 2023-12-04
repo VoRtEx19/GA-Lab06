@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab06</string>
+    <string name="student_creds">Лев Светличный БПИ 225</string>
+    <string name="reset">Reset</string>
+    <string name="emoji_1">Emoji 1</string>
+    <string name="emoji_2">Emoji 2</string>
+    <string name="emoji_3">Emoji 3</string>
+    <string name="emoji_4">Emoji 4</string>
+    <string name="emoji_5">Emoji 5</string>
+</resources>
